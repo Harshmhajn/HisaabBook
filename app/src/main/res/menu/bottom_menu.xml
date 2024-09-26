@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/transaction"
+        android:icon="@drawable/ic_book"
+        android:title="Trans."
+        android:visible="true" />
+
+    <item
+        android:id="@+id/stats"
+        android:icon="@drawable/ic_chart"
+        android:title="Stats" />
+
+</menu>
